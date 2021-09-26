@@ -7,7 +7,7 @@
    </a>
 
   <a href="https://github.com/milenacarecho/42SP/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MilenaCarecho/Libft?color=682998">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MilenaCarecho/Libft?color=CD5C5C">
   </a>
 
   <a href="https://github.com/MilenaCarecho/42SP/stargazers">
@@ -15,8 +15,6 @@
   </a>
 </p>
 
-
-Fala Devs, beleza? 🖖
 
 Esse repositorio é onde compartilharei minha jornada na escola de engenharia de software [@42SP](https://www.42sp.org.br/).
 Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
