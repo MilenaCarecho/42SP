@@ -18,7 +18,8 @@
 
 Fala Devs, beleza? 🖖
 
-Esse repositorio é onde eu estou compartilhando minha jornada na escola de engenharia de software [@42SP](https://www.42sp.org.br/). É aqui que meus projetos estarão compartilhados e explicados em ordem cronologica 😄
+Esse repositorio é onde compartilharei minha jornada na escola de engenharia de software [@42SP](https://www.42sp.org.br/).
+Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
 
 
 
