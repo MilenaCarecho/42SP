@@ -7,7 +7,7 @@
    </a>
 
   <a href="https://github.com/milenacarecho/42SP/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MilenaCarecho/Libft?color=CD5C5C">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MilenaCarecho/42SP?color=CD5C5C">
   </a>
 
   <a href="https://github.com/MilenaCarecho/42SP/stargazers">
