@@ -23,9 +23,11 @@ Para saber mais sobre um projeto especifico, basta clicar no nome que você ser�
 
 <div align="right">
   <sub>
-	UM CICLO EQUIVALE A 14 DIAS<br>
+	UM CICLO EQUIVALE A 14 DIAS
   </sub>
 </div>
+
+
 
 
 |    PROJETO    |                                                                                             DESCRIÇÃO                                                                                            | CICLOS |       STATUS       | SUCECCS | BONUS FEITO |
@@ -37,4 +39,6 @@ Para saber mais sobre um projeto especifico, basta clicar no nome que você ser�
 
 
 
-
+<div align="center">
+  <sub>feito com ❤︎ por <a href="https://github.com/MilenaCarecho">Milena Carecho</a></a>
+  </sub>
