@@ -3,7 +3,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/milenacarecho/">
-      <img alt="Milena Carecho" src="https://img.shields.io/badge/-MilenaCarecho-682998?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Milena Carecho" src="https://img.shields.io/badge/-MilenaCarecho-CD5C5C?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <a href="https://github.com/milenacarecho/42SP/commits/master">
@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://github.com/MilenaCarecho/42SP/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/MilenaCarecho/42SP?color=682998&logo=github">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/MilenaCarecho/42SP?color=CD5C5C&logo=github">
   </a>
 </p>
 
