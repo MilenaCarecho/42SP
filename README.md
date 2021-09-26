@@ -1,4 +1,4 @@
 # 42SP
-<a aria-label="Completed" href="https://www.42sp.org.br/">
-    <img src="https://img.shields.io/badge/42.sp-Libft-682998?logo="></img>
-</a>
+  <a href="https://github.com/luizlcezario/Libft/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/luizlcezario/Libft?color=682998&logo=github">
+  </a>
