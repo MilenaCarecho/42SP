@@ -19,7 +19,11 @@
 Esse repositorio é onde compartilharei minha jornada na escola de engenharia de software [@42SP](https://www.42sp.org.br/).
 Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
 
+<div align="center">
+  <sub>
 Para saber mais sobre um projeto especifico, basta clicar no nome que você será redirecionado ao repositorio do projeto 👩🏻‍🚀
+  </sub>
+</div>
 
 <div align="right">
   <sub>
