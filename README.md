@@ -22,15 +22,10 @@ Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
 <div align="center">
   <sub>
 Para saber mais sobre um projeto especifico, basta clicar no nome que você será redirecionado ao repositorio do projeto 👩🏻‍🚀
+
+UM CICLO EQUIVALE A 14 DIAS
   </sub>
 </div>
-
-<div align="right">
-  <sub>
-	UM CICLO EQUIVALE A 14 DIAS
-  </sub>
-</div>
-
 
 
 
