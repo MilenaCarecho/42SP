@@ -21,9 +21,11 @@ Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
 
 Para saber mais sobre um projeto especifico, basta clicar no nome que você será redirecionado ao repositorio do projeto 👩🏻‍🚀
 
-<p aling="right">
-*Um ciclo equivale a 14 dias*
-</p>
+<div align="rigth">
+  <sub>
+	UM CICLO EQUIVALE A 14 DIAS
+  </sub>
+</div>
 
 
 |    PROJETO    |                                                                                             DESCRIÇÃO                                                                                            | CICLOS |       STATUS       | SUCECCS | BONUS FEITO |
