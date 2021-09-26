@@ -33,7 +33,7 @@ Colocarei aqui os meus projetos em ordem cronologica e explicada 😄
 
 
 
-|    PROJETO    |                                                                                             DESCRIÇÃO                                                                                            | CICLOS |       STATUS       | SUCECCS | BONUS FEITO |
+|    PROJETO    |                                                                                             DESCRIÇÃO                                                                                            | CICLOS |       STATUS       | SUCCECS | BONUS FEITO |
 |:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:------------------:|:-------:|:-----------:|
 |      [LIBFT]()    | Este é o primeiro projeto como estudante na 42.  É preciso recodificar algumas funções da biblioteca padrão C,  bem como algumas outras funções utilitárias que será usada durante todo o curso. |    2   | ENTREGUE  15/09/21 |    125  |      SIM    |
 | GET_NEXT_LINE |                             É hora de começar a trabalhar na função get_next_line que lê conteudo linha por linha,  ela será fundamental para seus projetos futuros.                             |    1   |    EM ANDAMENTO    |   --    |      --     |
